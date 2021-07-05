@@ -1,0 +1,28 @@
+body{
+    font-family: 'Dancing Script', cursive;
+}
+section{
+    margin-bottom: 80px;
+}
+.flexibity{
+    display: flex;
+}
+.half_weight{
+    width: 50%;
+}
+h1{
+    font-size: 100px;
+}
+#celebrity_colour{
+    color: orange;
+}
+#second_sec_bi{
+    background-image: url(images/7.png);
+}
+.midume_font{
+    font-size: 50px;
+}
+#third_middle{
+    text-align: center;
+    padding: 10px 400px;
+}
