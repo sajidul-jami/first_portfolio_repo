@@ -1,5 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;}
+button {
+    background-color: green;
+    border-radius: 10px;
+    padding: 14px 16px;
+    font-size: 17px;
+  }
+button a{
+    text-decoration: honeydew;
+}
 .midume_font{
     font-size: 25px;
 }
