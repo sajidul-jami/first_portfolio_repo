@@ -1,6 +1,5 @@
 body{
-    font-family: 'Dancing Script', cursive;
-}
+    font-family: 'Poppins', sans-serif;}
 section{
     margin-bottom: 80px;
 }
@@ -17,7 +16,7 @@ section{
     width: 50%;
 }
 h1{
-    font-size: 100px;
+    font-size: 50px;
 }
 #celebrity_colour{
     color: orange;
@@ -26,7 +25,7 @@ h1{
     background-image: url(images/7.png);
 }
 .midume_font{
-    font-size: 50px;
+    font-size: 25px;
 }
 #third_middle{
     text-align: center;
