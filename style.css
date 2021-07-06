@@ -1,16 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;}
-section{
-    margin-bottom: 80px;
-}
-.flexibity{
-    display: flex;
-    margin: 50px;
-
-}
-.flexibity img{
-    width: 100%;
-
+.midume_font{
+    font-size: 25px;
 }
 .half_weight{
     width: 50%;
@@ -18,18 +9,46 @@ section{
 h1{
     font-size: 50px;
 }
+.link_button{
+    background-image: linear-gradient(to right, rgb(50, 50, 240), rgb(186, 138, 248));
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: whitesmoke;
+}
 #celebrity_colour{
     color: orange;
 }
-#second_sec_bi{
-    background-image: url(images/7.png);
+#section1{
+    margin-bottom: 80px;
+    padding-top: 60px;
+    padding-left: 80px;
+    display: flex;
 }
-.midume_font{
-    font-size: 25px;
+#section1div1{
+    padding-top: 120px;
+    color: gray;
+}
+
+
+
+#section2{
+    display: flex;
+    margin-bottom: 80px;
+    padding-left: 150px;
+    background-image: url(images/7.png);
+    color: gray;
 }
 #third_middle{
     text-align: center;
     padding: 10px 400px;
+    color: gray;
+}
+#section3div2{
+    display: flex;
+    margin-bottom: 80px;
+    color: gray;
+    width: 33%;
 }
 .food_div{
     margin: 40px;
