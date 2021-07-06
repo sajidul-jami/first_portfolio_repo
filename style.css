@@ -6,6 +6,12 @@ section{
 }
 .flexibity{
     display: flex;
+    margin: 50px;
+
+}
+.flexibity img{
+    width: 100%;
+
 }
 .half_weight{
     width: 50%;
@@ -25,4 +31,10 @@ h1{
 #third_middle{
     text-align: center;
     padding: 10px 400px;
+}
+.food_div{
+    margin: 40px;
+    border: 20px solid white;
+    border-radius: 20px;
+    box-shadow:1px 1px 50px rgb(218, 214, 214);
 }
